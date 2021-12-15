@@ -8,4 +8,12 @@ html {
 
 #sketchArea {
     display: flex;
+    flex-wrap: wrap;
+    border: 1px black solid;
+    width: 502px;
+    height: 502px;
+}
+
+.sketchCell {
+    /* background-color: red; */
 }
