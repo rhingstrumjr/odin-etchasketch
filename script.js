@@ -39,3 +39,5 @@ function reset () {
     }
     createGrid(prompt('How large of a grid do you want it? (max is 100)'))
 }
+
+createGrid(16)
